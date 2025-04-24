@@ -6,7 +6,6 @@ Bienvenido al repositorio de **Inspector de Elementos**, una documentación inte
 
 🔗 [Sitio en producción](https://983488514.facturalo.co/docusaurus)
 
-![Preview](./static/img/demo-preview.png)
 
 ## 📘 Contenido
 
