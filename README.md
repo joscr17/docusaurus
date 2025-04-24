@@ -1,41 +1,70 @@
-# Website
+# 🔍 Inspector de Elementos - Documentación Interactiva
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Bienvenido al repositorio de **Inspector de Elementos**, una documentación interactiva construida con [Docusaurus 2](https://docusaurus.io/) para enseñar desde cero cómo usar las herramientas de desarrollo (DevTools) del navegador.
 
-### Installation
+## 🚀 Vista previa
 
-```
-$ yarn
-```
+🔗 [Sitio en producción](https://983488514.facturalo.co/docusaurus)
 
-### Local Development
+![Preview](./static/img/demo-preview.png)
 
-```
-$ yarn start
-```
+## 📘 Contenido
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Esta guía paso a paso cubre todo lo necesario para dominar el inspector de elementos:
 
-### Build
+- ✅ Fundamentos del DOM y HTML en tiempo real
+- 🎨 Edición y desactivación de CSS
+- 🧩 Modelo de caja (Box Model)
+- 🖱 Forzado de estados `:hover`, `:active`, etc.
+- 🛠 Consola, redes, rendimiento y debugging
+- 📱 Modo responsive y throttling de red
+- 🧪 Inspección de componentes React y temas en Docusaurus
 
-```
-$ yarn build
-```
+## 🧰 Tecnologías
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+- [Docusaurus 2](https://docusaurus.io/) como motor de documentación
+- React + Markdown para contenido flexible
+- CSS Modules y temas personalizados
 
-### Deployment
+## 📦 Instalación
 
-Using SSH:
+```bash
+git clone https://github.com/joscr17/docusaurus.git
+cd docusaurus
+npm install
+npm run start
+# 🔍 Inspector de Elementos - Documentación Interactiva
 
-```
-$ USE_SSH=true yarn deploy
-```
+Bienvenido al repositorio de **Inspector de Elementos**, una documentación interactiva construida con [Docusaurus 2](https://docusaurus.io/) para enseñar desde cero cómo usar las herramientas de desarrollo (DevTools) del navegador.
 
-Not using SSH:
+## 🚀 Vista previa
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+🔗 [Sitio en producción](https://983488514.facturalo.co/docusaurus)
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+![Preview](./static/img/demo-preview.png)
+
+## 📘 Contenido
+
+Esta guía paso a paso cubre todo lo necesario para dominar el inspector de elementos:
+
+- ✅ Fundamentos del DOM y HTML en tiempo real
+- 🎨 Edición y desactivación de CSS
+- 🧩 Modelo de caja (Box Model)
+- 🖱 Forzado de estados `:hover`, `:active`, etc.
+- 🛠 Consola, redes, rendimiento y debugging
+- 📱 Modo responsive y throttling de red
+- 🧪 Inspección de componentes React y temas en Docusaurus
+
+## 🧰 Tecnologías
+
+- [Docusaurus 2](https://docusaurus.io/) como motor de documentación
+- React + Markdown para contenido flexible
+- CSS Modules y temas personalizados
+
+## 📦 Instalación
+
+```bash
+git clone https://github.com/joscr17/docusaurus.git
+cd docusaurus
+npm install
+npm run start
